@@ -2,7 +2,7 @@
   "name": "phonepe-v4",
   "version": "1.0.0",
   "description": "PhonePe backend for custom checkout",
-  "type": "module",  <--- इस लाइन को जोड़ें
+  "type": "module",  
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
